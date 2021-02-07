@@ -2,4 +2,6 @@
 https://deeplearning.cs.cmu.edu/S21/index.html
 http://mlsp.cs.cmu.edu/people/rsingh/IDLbook.html
 https://www.youtube.com/playlist?list=PLp-0K3kfddPyU495iR2p8UXt_o_LyHxwd
-
+https://wandb.ai/site -> For metric evaluation
+https://wandb.ai/site/articles/wandb-customizing-training-loops-in-tensorflow-2 -> Guide to using WANDB
+https://docs.wandb.ai/integrations/tensorflow
